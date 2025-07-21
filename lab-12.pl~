@@ -1,0 +1,9 @@
+woman(mia).
+woman(jody).
+woman(yolando).
+playsAirGuitar(jody).
+
+?- ['d:/study/university/5th semester/artificial intelligence/lab/lab-12.pl'].
+
+?- woman(mia).
+
